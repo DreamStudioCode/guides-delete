@@ -1,0 +1,23 @@
+body {
+	background:#333;
+	font-family: 'Roboto',arial,sans-serif;
+}
+a {
+	color:#aaa;
+	text-decoration: none;
+}
+a:hover {
+	color:#fff;
+}
+.content {
+	margin-left:70px;
+	color: #ccc;
+}
+.card {
+	background-color: #fcfcfc;
+	padding:30px;
+}
+.mainlinks {
+	font-size: 24pt;
+	line-height: 50px;
+}
